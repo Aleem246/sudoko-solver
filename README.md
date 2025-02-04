@@ -29,7 +29,7 @@ It provides an interactive web-based interface to solve Sudoku puzzles and visua
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/sudoku-solver.git
+   git clone https://github.com/aleem246/sudoku-solver.git
    ```
 2. Navigate to the project folder:
    ```sh
