@@ -4,6 +4,9 @@
 This project is a **Sudoku Solver** with a **Backtracking Algorithm Visualizer**.
 It provides an interactive web-based interface to solve Sudoku puzzles and visualize the backtracking approach used in solving them.
 
+## Live Demo
+[Click here to view the deployed site](https://sudoku-solver.netlify.app/)
+
 ## Features
 - **Automatic Sudoku Grid Generation**: Users cannot manually enter numbers; instead, a random puzzle is generated.
 - **Backtracking Algorithm Visualization**: Shows step-by-step solving using backtracking.
